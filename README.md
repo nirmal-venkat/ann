@@ -1,4 +1,4 @@
-# Artificial neural networks from scratch
+# Artificial neural network from scratch
 
 ## Objective
 To build a 2 layer neural network for a classification problem using objects (classes) in python. This would help in building a strong intuition behind the working of neural nets along with the mathematics. It also helps in experimenting arbitrary architectures like dropout, regularization, bias units and many more by acting as a good starting point. Eventually, as we move more and more towards popular and powerful frameworks like TensorFlow and Keras with black box implementations this exercise seeks to provide a good sense of computations happening in these libraries while implementing more complex networks like CNN, RNN etc.    
