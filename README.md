@@ -8,4 +8,5 @@ To build a 2 layer neural network for a classification problem using objects (cl
 * Hidden layer with 15 neurons and ReLU activation
 * Single neuron output layer with sigmoid activation & binary cross entropy loss
 
-**Dataset**: Cancer dataset is used from the UCI machine learning [repository](https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28original%29)
+## Dataset 
+Cancer dataset is used from the UCI machine learning [repository](https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28original%29)
